@@ -11,3 +11,9 @@ I'm doing a bunch of interview problems in the Go programming language.
 [Racecar](racecar.go)
 
 [Binary Tree Maximum Path](binary_tree_max_path.go)
+
+[Balanced Brackets](balanced_brackets.go)
+
+[Longest Path in a Matrix](longest_matrix_path.go)
+
+[Remove Islands](remove_islands.go)
